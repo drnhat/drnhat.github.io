@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Cài đặt lại MacOS
-subtitle: Các phần mềm cần thiết
+title: Lưu lại các App cần dùng sau này của MacOS
+subtitle: Danh sách app hay hay
 tags: [macos, app]
 
 ---
