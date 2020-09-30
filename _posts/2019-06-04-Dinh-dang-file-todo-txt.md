@@ -62,12 +62,3 @@ Vì là định dạng mở nên có kha khá phần mềm sử dụng định d
 Nhìn chung thì hai chương trình này đều có những phần mở rộng tương đương nhau. Đồng bộ hóa trên Dropbox rất tốt. Tuy nhiên sẽ có nhược điểm là bất lợi khi lên lịch cộng việc khi đang Offline mà ở [đây](http://rtalbert.org/back-to-todoist/) có nói (mình cũng từng bị). Nói chung biết bất lợi của nó mà tránh thôi.
 # Kết luận
 Nhìn chung mình hài lòng với định dạng và chương trình đang có, cũng có vài nhược điểm nhưng biết để mà khắc phục. Điều quan trọng là mình cần là người làm việc có khoa học hơn. Tuân thủ tốt hơn lịch công tác đề ra, tránh sao nhãng. Công cụ là 1 phần nhưng mà còn con người nữa.
-
-
-
-
-
-
-
-
-
